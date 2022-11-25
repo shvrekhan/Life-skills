@@ -6,4 +6,4 @@ The data structures used by NoSQL databases (e.g. key–value pair, wide column,
 # Types of NoSQL databases
 NoSQL databases (aka "not only SQL") are non tabular, and store data differently than relational tables. NoSQL databases come in a variety of types based on their data model.
 - Key/Value store
-  -redis
+ -redis
