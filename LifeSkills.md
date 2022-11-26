@@ -18,5 +18,14 @@ NoSQL databases (aka "not only SQL") are non tabular, and store data differently
 
 # Key/Value store
  ## How key value database work?
- The key value pair database works like in manner of hashing works in key value-pair database all the value or data stored against a key and that is used to access or retrive that data.
+Key-value databases use compact, efficient index structures to be able to quickly and reliably locate a value by its key, making them ideal for systems that need to be able to find and retrieve data in constant time. Redis, for instance, is a key-value database that is optimized for tracking relatively simple data structures (primitive types, lists, heaps, and maps) in a persistent database. 
+
+## features of a key-value database
+- Retrieving a value (if there is one) stored and associated with a given key.
+- Deleting the value (if there is one) stored and associated with a given key.
+- Setting, updating, and replacing the value (if there is one) associated with a given key.
  
+## When to use key-value database
+ - Real time random data access, e.g., user session attributes in an online application such as gaming or finance.
+ - Caching mechanism for frequently accessed data or configuration based on keys.
+ - Application is designed on simple key-based queries.
