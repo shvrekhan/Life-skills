@@ -54,6 +54,17 @@ column-store databases do exactly what is advertised on the tin: namely, that in
 - Scalability is excellent with column-store databases. They can be expanded nearly infinitely, and are often spread across large clusters of machines, even numbering in thousands.
 - Load times are similarly excellent, as you can easily load a billion-row table in a few seconds. That means you can load and query nearly instantly.
 
+# Graph Database
+We live in a connected world, and understanding most domains requires processing rich sets of connections to understand what’s really happening. Often, we find that the connections between items are as important as the items themselves.
+
+## How graph database work
+Graphs and graph databases provide graph models to represent relationships in data. They allow users to perform “traversal queries” based on connections and apply graph algorithms to find patterns, paths, communities, influencers, single points of failure, and other relationships, which enable more efficient analysis at scale against massive amounts of data. 
+
+## When to use graph database
+- Fraud detection
+- Recommendation engines
+- Navigate deep hierarchies,
+- Find hidden connections between distant items
 
 
 
@@ -64,4 +75,5 @@ column-store databases do exactly what is advertised on the tin: namely, that in
 - https://www.geeksforgeeks.org/document-databases-in-nosql/
 - https://www.mongodb.com/document-databases
 - https://aws.amazon.com/nosql/document/
-- 
+- https://neo4j.com/developer/graph-database/
+- https://aws.amazon.com/nosql/graph/
