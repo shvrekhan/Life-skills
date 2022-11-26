@@ -9,3 +9,12 @@ NoSQL databases (aka "not only SQL") are non tabular, and store data differently
 - Document database
 - Column oriented database
 - Graph database 
+
+# When to use NoSQL
+- NoSQL are good fit for the rapid agile devlopment, NoSQL allows developer to in control of the structure of data.
+- Gives a upper hand to handelling the semi-structured and the un-structured data.
+- To handel the de-centerlised NoSQL is very effective and effecnt.
+- NoSQL is designed to handel the situation like hardware fail to minimise the down time.
+
+# Key/Value store
+- ## how key value database work
