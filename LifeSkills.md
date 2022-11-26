@@ -29,3 +29,13 @@ Key-value databases use compact, efficient index structures to be able to quickl
  - Real time random data access, e.g., user session attributes in an online application such as gaming or finance.
  - Caching mechanism for frequently accessed data or configuration based on keys.
  - Application is designed on simple key-based queries.
+
+# Document databse
+## How document database work
+A document database is a type of nonrelational database that is designed to store and query data as JSON-like documents. Document databases make it easier for developers to store and query data in a database by using the same document-model format they use in their application code. The flexible, semistructured, and hierarchical nature of documents and document databases allows them to evolve with applications’ needs. The document model works well with use cases such as catalogs, user profiles, and content management systems where each document is unique and evolves over time.
+
+## Feature of document database
+- Document Type Model
+- Flexible Schema
+- Distributed and Resilient
+- Manageable Query Language
