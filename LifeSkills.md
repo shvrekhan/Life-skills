@@ -17,4 +17,6 @@ NoSQL databases (aka "not only SQL") are non tabular, and store data differently
 - NoSQL is designed to handel the situation like hardware fail to minimise the down time.
 
 # Key/Value store
- ## how key value database work
+ ## How key value database work?
+ The key value pair database works like in manner of hashing works in key value-pair database all the value or data stored against a key and that is used to access or retrive that data.
+ 
