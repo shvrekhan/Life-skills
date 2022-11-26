@@ -39,3 +39,29 @@ A document database is a type of nonrelational database that is designed to stor
 - Flexible Schema
 - Distributed and Resilient
 - Manageable Query Language
+
+## When to use document database
+- These data models are very much used in creating various video streaming platforms, blogs, and similar services Because each is stored as a single document and the database here is much easier to maintain as the service evolves over time.
+- These are very much useful in making book databases because as we know this data model lets us nest.
+- When it comes to storing and reading catalog files these data models are very much used because it has a fast reading ability if incase Catalogs have thousands of attributes stored.
+
+# Column oriented database
+## How column orientd database work
+column-store databases do exactly what is advertised on the tin: namely, that instead of organizing information into rows, it does so in columns. This essentially makes them function the same way that tables work in relational databases. Of course, since this is a NoSQL database, this data model makes them much more flexible.
+
+## Feature of column database
+- Since a majority of the information is stored in a column, aggregation queries are quite fast, which is important for projects that require large amounts of queries in a small amount of time.
+- Scalability is excellent with column-store databases. They can be expanded nearly infinitely, and are often spread across large clusters of machines, even numbering in thousands.
+- Load times are similarly excellent, as you can easily load a billion-row table in a few seconds. That means you can load and query nearly instantly.
+
+
+
+
+
+
+# Refrences
+- https://learning-notes.kovacevic.dev/databases/nosql/nosql/
+- https://www.geeksforgeeks.org/document-databases-in-nosql/
+- https://www.mongodb.com/document-databases
+- https://aws.amazon.com/nosql/document/
+- 
