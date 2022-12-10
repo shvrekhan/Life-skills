@@ -1,4 +1,5 @@
-# Question 1 - What is the Feynman Technique? Paraphrase the video in your own words.
+# Question 1 
+## What is the Feynman Technique? Paraphrase the video in your own words.
 The Feynman Technique is a method for learning and understanding complex topics. It is named after the physicist Richard Feynman, who was known for his ability to explain difficult concepts in simple terms.
 The Feynman Technique involves four steps:
 - Choose a topic that you want to learn or understand.
