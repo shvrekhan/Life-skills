@@ -17,6 +17,7 @@ There are several different ways to implement the Feynman Technique in your lear
 
 # Question 3
 ## Paraphrase the video in detail in your own words.
+In the "Learning How to Learn" TED talk, Barbara Oakley discusses the importance of learning how to learn and shares some strategies for becoming a more effective learner. Oakley explains that the brain has two modes of learning: focused mode, when we concentrate deeply on a specific task, and diffuse mode, when our minds wander and make connections between different ideas and concepts. To learn effectively, Oakley says it is important to switch between these modes by taking regular breaks, engaging in physical exercise, and exposing ourselves to a variety of different learning environments. Oakley also suggests using specific learning strategies, such as mnemonic devices and retrieval practice, to improve our learning abilities. She emphasizes that learning is not a solitary activity, but is enhanced by collaboration and discussion with others. Overall, Oakley's talk provides valuable insights into the process of learning and offers practical advice for becoming a more effective learner.
 
 
 # Question 4
