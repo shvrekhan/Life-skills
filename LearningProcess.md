@@ -25,6 +25,14 @@ There are several different ways to implement the Feynman Technique in your lear
 
 # Question 5
 ## Your key takeaways from the video? Paraphrase your understanding.
+To learn anything in the first 20 hours, Kaufman suggests the following steps:
+- Identify the specific skill or subject you want to learn.
+- Break the skill or subject down into smaller, more manageable chunks.
+- Choose a proven method or learning strategy that has been shown to be effective for the skill or subject you want to learn.
+- Practice consistently and regularly, ideally for at least 20 hours, using the learning method or strategy you have chosen.
+- Seek feedback and support from others who are knowledgeable or experienced in the skill or subject you are learning.
+- Stay motivated and keep practicing until you have mastered the skill or subject to the level you desire.
+
 
 # Question 6
 ## What are some of the steps that you can while approaching a new topic?
