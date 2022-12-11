@@ -14,3 +14,17 @@ There are several different ways to implement the Feynman Technique in your lear
 - Asking a friend or colleague to listen to your explanation and provide feedback. This can help you identify any gaps in your understanding or areas where your explanation is unclear.
 - Teaching the topic to someone else, such as a younger student or a coworker who is less familiar with the topic. This can help you solidify your understanding and identify any areas where you need to learn more.
 - Using diagrams, illustrations, or other visual aids to help explain the topic. This can make your explanation more engaging and easier to understand.
+
+# Question 3
+## Paraphrase the video in detail in your own words.
+
+
+# Question 4
+## What are some of the steps that you can take to improve your learning process?
+
+
+# Question 5
+## Your key takeaways from the video? Paraphrase your understanding.
+
+# Question 6
+## What are some of the steps that you can while approaching a new topic?
